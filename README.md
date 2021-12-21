@@ -2,7 +2,7 @@
 Information Retrieval Project
 
 
-#Built With:
--HTML/CSS
--PHP
--Java 
+# Built With:
+- HTML/CSS
+- PHP
+- Java 
